@@ -1,0 +1,17 @@
+{
+  "download": "Скачать" ,
+  "upload": "Загрузить",
+  "play": "Начать игру",
+  "preparation": "Готово.",
+  "funnyLand": "Funny Land",
+  "frogeGuiVersion": "froge gui v2.21.22",
+  "localUploadTile": "Локальная загрузка",
+  "uploadingText": "Загрузить",
+  "uploadSuccessText": "Удалось загрузить",
+  "uploadAgainText": "Перезагрузить",
+  "uploadErrorText": "Ошибка загрузки",
+  "uploadedText": "Загрузка",
+  "uploadFileTip": "Перетащите игровой клиент сюда и загрузите его.",
+  "emptyDownloadText": "Нет задачи загрузки",
+  "onlyDirText": "Поддержка только папок"
+}

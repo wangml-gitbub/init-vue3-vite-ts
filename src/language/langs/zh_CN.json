@@ -1,0 +1,17 @@
+{
+  "download": "下载" ,
+  "upload": "上传",
+  "play": "开始游戏",
+  "preparation": "准备中",
+  "funnyLand": "Funny Land",
+  "frogeGuiVersion": "froge gui v2.21.22",
+  "localUploadTile": "本地上传",
+  "uploadingText": "正在上传中...",
+  "uploadSuccessText": "上传成功",
+  "uploadErrorText": "上传失败",
+  "uploadAgainText": "重新上传",
+  "uploadedText": "已上传",
+  "uploadFileTip": "将游戏客户端拖拽到此处即可上传",
+  "emptyDownloadText": "暂无下载任务",
+  "onlyDirText": "仅支持文件夹"
+}

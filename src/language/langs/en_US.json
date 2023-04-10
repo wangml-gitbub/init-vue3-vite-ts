@@ -1,0 +1,17 @@
+{
+  "download": "download" ,
+  "upload": "upload",
+  "play": "PLAY",
+  "preparation": "preparation",
+  "funnyLand": "Funny Land",
+  "frogeGuiVersion": "froge gui v2.21.22",
+  "localUploadTile": "local upload",
+  "uploadingText": "uploading",
+  "uploadSuccessText": "upload success",
+  "uploadAgainText": "upload again",
+  "uploadErrorText": "upload error",
+  "uploadedText": "uploaded",
+  "uploadFileTip": "Drag and drop the game client here to upload",
+  "emptyDownloadText": "no download tasks",
+  "onlyDirText": "only supports folders"
+}
